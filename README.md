@@ -21,6 +21,7 @@ It provides insights into past stock price trends, predicts on test data, and fo
 - TensorFlow & Keras (LSTM model)
 - Streamlit
 - Pandas, Numpy, Matplotlib, Scikit-learn
+- Google colab
 
 ---
 
